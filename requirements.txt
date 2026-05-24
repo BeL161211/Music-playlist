@@ -1,0 +1,4 @@
+requests==2.32.5
+python-dotenv==1.2.1
+sanitize-filename==1.2.0
+beautifulsoup4==4.14.3
